@@ -233,7 +233,7 @@ while True:
         
 
         elif 'email' in query:
-
+#          this function will send an email
             try:
 
                 speak("What should I say?")
